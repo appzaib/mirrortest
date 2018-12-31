@@ -1,0 +1,15 @@
+{
+  "name": "mirrortest",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://lab.appzaib.com/apps/mirrortest"
+  },
+  "author": "Jahanzaibv2",
+  "license": "MIT"
+}
